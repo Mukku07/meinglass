@@ -1,0 +1,576 @@
+@media(max-width:1366px){
+    /*index page start*/
+    .container {
+        width: 1140px;
+    }
+    .product_box1 .row {
+        padding: 0 30px;
+    }
+    .product_box_inner2 {
+        padding: 0px 10px;
+    }
+    /*index page end*/
+}
+@media(max-width:1199px){
+    /*index page start*/
+    .container {
+        width: 100%;
+    }
+    .header .navbar-default .navbar-nav > li {
+        border-radius: 25px;
+        margin: 0 6%;
+    }
+    .product_banner .content_pro h4 {
+        font-size: 19px;
+    }
+    .product_banner .content_pro h2 {
+        font-size: 40px;
+        line-height: 35px;
+    }
+
+    .product_banner .slick-prev, .product_banner .slick-next {
+        padding: 24px 13px;
+    }
+    .product_banner .slick-prev {
+        left: 10px;
+    }.product_banner .slick-next {
+        right: 10px;
+    }
+    .product_banner .content_pro a {
+        padding: 6px 15px;
+        font-size: 15px;
+    }
+    .product_box .row {
+        margin: 0 0px;
+    }
+    .product_box_inner .discription_pro a {
+        line-height: 22px;
+        padding-bottom: 4px;
+        font-size: 16px;
+    }
+    .product_box_inner{
+        padding: 21px; 
+    }
+    .productBox_slides .product_box_inner {
+        padding: 0px;
+    }
+    .slick-prev {
+        left: 0px;
+    }
+    .slick-next {
+        right: 0px;
+    }
+    .testimonial .bottom {
+        padding: 10px 100px 0px 100px;
+    }
+    /*index page end*/
+    /*product page start*/
+    .product_headings ul li a {
+    padding: 10px 18px;
+    }
+    .products .products_inner p {
+    display: -webkit-box;
+    }
+    /*product page end*/
+    
+} 
+@media(max-width:991px){
+    /*index page start*/
+    .header .navbar-default .navbar-nav > li {
+        margin: 0 4%;
+    }
+    .header .navbar-brand img{
+        width: 85%;
+    }
+    .content_pro1{
+        padding-left: 43px;
+    }
+    .product_box h2 {
+        font-size: 25px;
+        padding-bottom: 25px;
+    }
+    .nav_cus ul li .addsearch {
+        background-position: 97% 57%;
+        height: 2.1em;
+        font-size: 17px;
+    }
+    .product_banner {
+        margin-top: 105px;
+    }
+    .product_box1 .row {
+        padding: 0 10px;
+    }
+    .footertop ul li:first-child {
+        margin:20px 0px 15px;
+        font-size: 16px;
+    }
+    .testimonial .bottom p {
+        font-size: 16px;
+    }
+    .testimonial .bottom p {
+        color: #fff;
+        font-size: 16px;
+    }
+    .testimonial .bottom p span {
+        font-size: 22px;
+    }
+    .testimonial .bottom {
+        padding: 10px 60px 0px 60px;
+    }
+    .footerbottominner p {
+        font-size: 14px;
+        margin: 4px 0 15px;
+    }
+    .product_box_inner .discription_pro a {
+        line-height: 19px;
+        font-size: 14px;
+    }
+
+    /*index page end*/
+    
+    /*product page start*/
+    .product_headings ul li a {
+    padding: 8px 11px;
+    font-size: 13px;
+}
+.heading_top {
+    font-size: 27px;
+    margin-bottom: 15px;
+}
+    /*product page end*/
+    
+    /*order page start*/
+    .billing_inner {
+    padding: 18px 0px 15px 0px;
+}
+.order .billing_inner p {
+    font-size: 13px;
+    float: unset;
+}
+.billing_inner .col-xs-3{
+    padding: 0px 10px;
+}
+.order .billing_inner select {
+    font-size: 13px;
+    width: 130px;
+}
+.order .order_inner {
+    padding: 0px 0px 14px;
+}
+    /*order page end*/
+}
+@media(max-width:767px){
+    /*index page start*/
+    .header .hamburger{
+        display: block;
+    }
+    .hamburger-box {
+        height: 49px;
+    }
+    .nav_cus {
+        margin-top: 0px;
+    }
+    .flexy{
+        display: inline !important;
+    }
+    .product_banner .flexy .content_pro{
+        padding: 25px 0px 25px 20px;
+        display: inherit;
+    }
+    .product_banner .content_pro h2 {
+        font-size: 30px;
+        line-height: 20px;
+    }
+    .product_banner .content_pro h4 {
+        font-size: 15px;
+    }
+    .product_banner .content_pro p {
+        font-size: 16px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+    .product_banner .content_pro a {
+        font-size: 14px;
+    }
+    .product_banner .content_pro a {
+        padding: 6px 15px;
+        font-size: 14px;
+    }
+    .product_banner {
+        margin-top: 60px;
+    }
+    .header .navbar-brand {
+            top: 22px;
+    display: inline-block;
+    padding-left: 15px;
+    position: absolute;
+    width: max-content;
+    z-index: -1;
+    }
+    .testimonial .bottom {
+        padding: 10px 25px 0px 25px;
+    }
+    .testimonial .bottom p {
+        color: #fff;
+        font-size: 15px;
+    }
+    .testimonial h2 {
+        font-size: 25px;
+    }
+    .top_header ul li a {
+        font-size: 15px;
+    }
+    .header .navbar-brand img {
+        width: 60%;
+    }
+    .nav_cus ul li:last-child {
+        width: 1%;
+    }
+    /*index page end*/
+    
+    /*product apge start*/
+    .products{
+    margin-top: 40px;
+}
+.product_headings ul li {
+    margin-bottom: 15px;
+}
+    /*product page end*/
+    
+    /*dimension page start*/
+    .dimension_outer {
+    margin-top: 70px;
+}
+   .product_headings {
+    padding: 40px 0px 15px;
+} 
+    /*dimenshion page end*/
+    
+    /*option page start*/
+    .febrication .hole1{
+        height: auto;
+    }
+    a.bottom_link {
+    display: inline;
+    }
+    .options .tempred_logo a {
+    font-size: 15px;
+    display: inline-block;
+    width: 100%;
+}
+    /*option page end*/
+    
+    /*order page  start*/
+    .order .billing_inner p span{
+        text-align: left;
+    }
+    .order .order_inner .col-sm-6{
+        padding: 0px;
+    }
+    .order .order_inner .billing {
+    margin-bottom: 20px;
+}
+.order {
+    margin-top: 70px;
+}
+    /*order page end*/
+    
+    /*thickness model1 start*/
+    .modal.in .modal-dialog {
+    width: 97%;
+    }
+    /*thickness model1 end*/
+}
+@media(max-width:560px){
+/*product page start*/
+.product_headings {
+    padding: 20px 0px 15px;
+}
+.products .products_inner {
+    margin: 12px 0px 0px 0px;
+}
+
+/*product page end*/
+/*shapes page start*/
+.shapes_inner p {
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+/*shapes page end*/
+/*dimenshion page start*/
+.dimensions_inner p {
+    line-height: 20px;
+        font-size: 14px;
+}
+.dimensions_inner h5 {
+    font-size: 15px;
+}
+.footerbottomlink ul li {
+    margin: 0px 1px;
+}
+/*dimenshion page end*/
+
+/*thickness1 page start*/
+.size .inches ul li {
+    font-size: 13px;
+    height: 50px;
+    width: 51px;
+    padding: 7px;
+}
+/*thickness1 page end*/
+
+/*summary page start*/
+.summary h1, .cart_items {
+    padding: 4px 0px 15px;
+}
+.summary h1 {
+    font-size: 29px;
+}
+.summary table tr td {
+    padding: 8px 6px;
+    font-size: 13px;
+    line-height: 21px;
+}
+.calculate ul li {
+    display: inherit;
+        margin-bottom: 11px;
+}
+.summary .carts_right {
+    text-align: left;
+    width: 100%;
+    float: unset;
+}
+.carts a {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.about_last a {
+    display: inline-block;
+    font-size: 13px;
+    width: 100%;
+    line-height: 20px;
+}
+.carts a {
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-right: 1px;
+}
+/*summary page end*/
+
+/*order page start*/
+.heading_top {
+    font-size: 22px;
+}
+.order .order_inner a {
+    display: inline-block;
+    width: 100%;
+}
+/*oredr page end*/
+.shop, .news {
+    margin-top: 50px;
+}
+}
+@media(max-width:414px){
+    /*index page start*/
+    .top_header ul li {
+        padding: 0 0px;
+    }
+    .top_header {
+        padding: 0px 0% 5px;
+    }
+    .top_header ul li a {
+        font-size: 13px;
+    }
+    .product_banner .content_pro h4 {
+        font-size: 13px;
+    }
+    .product_banner .content_pro h2 {
+        font-size: 23px;
+        line-height: 14px;
+    }
+    .product_banner .content_pro p {
+        font-size: 14px;
+        line-height: 15px;
+        margin-bottom: 15px;
+    }
+    .product_banner .content_pro a {
+        font-size: 13px;
+    }
+    .product_box h2 {
+        font-size: 17px;
+        padding-bottom: 15px;
+    }
+    .product_box_inner .discription_pro a.pro_small_title {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .product_box_inner .discription_pro a {
+        line-height: 17px;
+        font-size: 13px;
+    }
+    .product_box_inner {
+        margin-bottom: 15px;
+        padding: 15px;
+    }
+    .productBox_slides .col-xs-6{
+        width: 100%;
+    }
+    .askfree p {
+    font-size: 14px;
+    }
+    .askfree ul li a {
+    font-size: 14px;
+    }
+    .askfree ul {
+    margin-top: 15px;
+}
+.gallery .col-xs-6{
+    width: 100%;
+    padding: 0px 15px;
+}
+.testimonial h2 {
+    font-size: 20px;
+}
+.testimonial .bottom p {
+    font-size: 13px;
+}
+.testimonial .bottom h6 {
+    font-size: 14px;
+    margin-top: 12px;
+    margin-bottom: 7px;
+}
+.testimonial .bottom h5 {
+    font-size: 14px;
+}
+.testimonial {
+    padding: 25px 0px 0px;
+}
+.footertop ul li:first-child {
+    margin: 15px 0px 13px;
+    font-size: 14px;
+}
+.footertoplink .col-xs-6{
+    width: 100%;
+        padding: 0px 15px;
+}
+.footertop,.footeraddres {
+    text-align: center;
+}
+.foter_left_address {
+    padding-right: 0px;
+    
+}
+.logo_footer img {
+    margin: 0 auto;
+}
+    /*index page end*/
+    
+    /*product page start*/
+    .products .tempred img{
+        float: unset;
+        margin: 0px auto 15px;
+    }
+    .products .products_inner h3 {
+    display: inline-block;
+    }
+    .products .products_inner{
+        text-align: center;
+    }
+    .products .products_inner input {
+    float: unset;
+    margin-right: 5px;
+    }
+    a.continue {
+    padding: 5px 10px;
+    font-size: 13px;
+    }
+    .heading_top {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+    /*product page end*/
+    
+    /*dimension page start*/
+    .dimensions_inner table tr td {
+    font-size: 13px;
+}
+.dimensions_inner table tr select {
+    padding: 4px;
+}
+    /*dimension page end*/
+    
+    /*thickness1 page start*/
+    .size .inches ul li {
+    font-size: 11px;
+    height: 40px;
+    width: 40px;
+    padding: 3px;
+    margin-right: 1px;
+}
+    /*thickness page end*/
+    
+    /*tint1 page start*/
+    .tint_col {
+    height: 160px;
+    width: 100%;
+}
+    /*tint1 page end*/
+/*option page start*/
+a.bottom_link {
+    font-size: 13px;
+    line-height: 20px;
+}
+.febrication p {
+    font-size: 13px;
+    padding-top: 7px;
+}
+
+/*option pager end*/
+
+/*summary page start*/
+.summary h1 {
+    font-size: 24px;
+}
+.summary table tr th, .calculate h4 {
+    padding: 8px 7px;
+    font-size: 13px;
+}
+.summary table tr td {
+    padding: 8px 6px;
+    font-size: 12px;
+}
+.calculate ul li {
+       width: 100%;
+    display: inline-grid;
+    font-size: 13px;
+}
+.summary table tr td a {
+    margin-right: 0;
+    display: inherit;
+    font-size: 13px;
+        width: max-content;
+}
+/*summary page end*/
+
+/*order page start*/
+.billing_inner .col-xs-3,.billing_inner .col-xs-9{
+    width: 100%;
+    padding: 0px 15px;
+}
+.order .billing_inner p {
+    padding-bottom: 4px;
+}
+.order .order_inner a {
+    font-size: 13px;
+}
+.order .order_inner .last {
+    padding: 10px 0px 13px;
+}
+/*order page end*/
+}
+
+
+@media(max-width:320px){
+
+}

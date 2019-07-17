@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 15, 2019, 1:20:15 PM
+    Author     : hp
+*/
+.container .mrgn{
+    margin-top: 150px;
+}
+
+.error{
+    color:red;
+}
+
+.fa-pen-square,.fa-trash,.fa-plus-square,.fa-minus-square{
+    font-size: 20px;
+}
+
+.shapes .col-sm-4 {
+    min-height: 165px;
+    flex: initial;
+    width: 33%;
+    display: inline-block;
+}
+.products{
+    margin-top: 0;
+}
+.dimension_outer
+{
+    margin-top: 0;
+}
+.container
+{
+    max-width: 100%;
+}
+.products_inner .col-sm-6{
+    display: inline-block;
+    float: left;
+}
